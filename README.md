@@ -2,6 +2,8 @@
 A four degree of freedom generic robotic arm for pick and place applications
 This project was built in the summer of 2020 for RMI Inductions. The robot was designed and built in a period of one month.
 
+# Documentation
+
 For a complete explanation of the project- https://drive.google.com/file/d/1uu-SdPHZUM8wqRT9D9vkcPsKyekqV6p-/view?usp=sharing
 
 For viewing the pictures of the all the stages of development of the manipulator - https://drive.google.com/file/d/1_q88RD-9EE_XImWeowjCzCLcNFdKKC9B/view?usp=sharing
