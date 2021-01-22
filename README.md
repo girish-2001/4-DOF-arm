@@ -8,7 +8,7 @@ For viewing the pictures of the all the stages of development of the manipulator
 
 To view all working videos of the manipulator - https://drive.google.com/drive/folders/1spl5hXXYucn8lo_2iuv2WoKMy2UlcaPM?usp=sharing
 
-Technical details:
+# Technical details
 1. Fabricated using Plywood- 5 mm thickness
 2. Microcontroller used -Arduino Uno
 3. A total of 4 servo motors used.
