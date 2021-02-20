@@ -1,6 +1,7 @@
 # 4-DOF-arm
 A four degree of freedom generic robotic arm for pick and place applications
 This project was built in the summer of 2020 for RMI Inductions. The robot was designed and built in a period of one month.
+
 ![Image of arm](https://github.com/girish-2001/4-DOF-arm/blob/main/Pictures/arm.png)
 
 # Documentation
